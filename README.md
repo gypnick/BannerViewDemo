@@ -1,4 +1,4 @@
-# updateapk
+# BannerViewDemo
 ### android bannerView  广告条 无限轮播
 ![image](https://github.com/gypnick/BannerViewDemo/blob/master/bannerView.gif)
 ## 1.导入到工程
