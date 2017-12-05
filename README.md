@@ -18,7 +18,14 @@
 	}
   ```
 ##  2.使用
-####  
+####
+	<site.site8.bannerview.BannerView
+ 	   android:id="@+id/bannerView"
+    	   android:layout_width="match_parent"
+    	   android:layout_height="200dp">
+	</site.site8.bannerview.BannerView>
+
+####
              bannerView
                      .setLoopTime(1000)//设置轮播间隔时间，默认2000毫秒
                      .setGravityPoint(BannerView.BOTTOM_RIGHT)//设置轮播点的位置，默认在中间
